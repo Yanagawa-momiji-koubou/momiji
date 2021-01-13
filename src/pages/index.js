@@ -37,7 +37,7 @@ const HomeIndex = ({ data, location }) => {
           これからも楽しく使っていただける
           木の温もりのある
           カトラリー作りに挑戦して行きます
-          よろしくお願いいたします。
+          よろしくお願いいたします
           </p>
         </div>
         <div className="grid_item2">
